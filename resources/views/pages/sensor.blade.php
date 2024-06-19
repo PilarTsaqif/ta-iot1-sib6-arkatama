@@ -187,22 +187,22 @@
                     from: 0,
                     to: 250,
                     color: '#4caf50', // Hijau
-                    thickness: '5%' // Ketebalan 10%
+                    thickness: '7%' // Ketebalan 10%
                 }, {
                     from: 250,
                     to: 500,
                     color: '#ffee58', // Kuning
-                    thickness: '5%' // Ketebalan 10%
+                    thickness: '7%' // Ketebalan 10%
                 }, {
                     from: 500,
                     to: 750,
                     color: '#ff9800', // Oren
-                    thickness: '5%' // Ketebalan 10%
+                    thickness: '7%' // Ketebalan 10%
                 }, {
                     from: 750,
                     to: 1000,
                     color: '#f44336', // Merah
-                    thickness: '5%' // Ketebalan 10%
+                    thickness: '7%' // Ketebalan 10%
                 }],
                 ' PPM'
             );
@@ -211,22 +211,22 @@
                     from: 0,
                     to: 25,
                     color: '#4caf50', // Hijau
-                    thickness: '5%' // Ketebalan 10%
+                    thickness: '9%' // Ketebalan 10%
                 }, {
                     from: 25,
                     to: 50,
                     color: '#ffee58', // Kuning
-                    thickness: '5%' // Ketebalan 10%
+                    thickness: '9%' // Ketebalan 10%
                 }, {
                     from: 50,
                     to: 75,
                     color: '#ff9800', // Oren
-                    thickness: '5%' // Ketebalan 10%
+                    thickness: '9%' // Ketebalan 10%
                 }, {
                     from: 75,
                     to: 100,
                     color: '#f44336', // Merah
-                    thickness: '5%' // Ketebalan 10%
+                    thickness: '9%' // Ketebalan 10%
                 }],
                 '%'
             );
@@ -235,22 +235,22 @@
                     from: 0,
                     to: 25,
                     color: '#4caf50', // Hijau
-                    thickness: '5%' // Ketebalan 10%
+                    thickness: '9%' // Ketebalan 10%
                 }, {
                     from: 25,
                     to: 50,
                     color: '#ffee58', // Kuning
-                    thickness: '5%' // Ketebalan 10%
+                    thickness: '9%' // Ketebalan 10%
                 }, {
                     from: 50,
                     to: 75,
                     color: '#ff9800', // Oren
-                    thickness: '5%' // Ketebalan 10%
+                    thickness: '9%' // Ketebalan 10%
                 }, {
                     from: 75,
                     to: 100,
                     color: '#f44336', // Merah
-                    thickness: '5%' // Ketebalan 10%
+                    thickness: '9%' // Ketebalan 10%
                 }],
                 '°C'
             );
@@ -259,22 +259,22 @@
                     from: 0,
                     to: 25,
                     color: '#4caf50', // Hijau
-                    thickness: '5%' // Ketebalan 10%
+                    thickness: '9%' // Ketebalan 10%
                 }, {
                     from: 25,
                     to: 50,
                     color: '#ffee58', // Kuning
-                    thickness: '5%' // Ketebalan 10%
+                    thickness: '9%' // Ketebalan 10%
                 }, {
                     from: 50,
                     to: 75,
                     color: '#ff9800', // Oren
-                    thickness: '5%' // Ketebalan 10%
+                    thickness: '9%' // Ketebalan 10%
                 }, {
                     from: 75,
                     to: 100,
                     color: '#f44336', // Merah
-                    thickness: '5%' // Ketebalan 10%
+                    thickness: '9%' // Ketebalan 10%
                 }],
                 'mm'
             );

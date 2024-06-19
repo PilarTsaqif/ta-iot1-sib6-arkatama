@@ -18,27 +18,27 @@
                 <li class="
                 @if (request()->url() == route('dashboard')) active @endif">
                     <a href="{{ route('dashboard') }}" class="iq-waves-effect"><i
-                            class="ri-home-4-line"></i><span>Dashboard</span></a>
+                            class="ri-home-4-line"></i><span>DASHBOARD</span></a>
                 </li>
 
                 <li class="
                 @if (request()->url() == route('sensor.index')) active @endif">
                     <a href="{{ route('sensor.index') }}" class="iq-waves-effect"><i
-                            class="ri-sensor-line"></i><span>Sensor</span></a>
+                            class="ri-sensor-line"></i><span>SENSOR</span></a>
                 </li>
 
                 <li class="
           @if (request()->url() == route('led.index')) active @endif
           ">
                     <a href="{{ route('led.index') }}" class="iq-waves-effect"><i
-                            class="ri-lightbulb-line"></i><span>LED Control</span></a>
+                            class="ri-lightbulb-line"></i><span>KONTROL LAMPU</span></a>
 
                 </li>
 
                 <li class="
                 @if (request()->url() == route('users.index')) active @endif">
                     <a href="{{ route('users.index') }}" class="iq-waves-effect"><i
-                            class="ri-user-2-line"></i><span>Pengguna</span></a>
+                            class="ri-user-2-line"></i><span>PENGGUNA</span></a>
                 </li>
             </ul>
         </nav>
